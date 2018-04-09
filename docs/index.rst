@@ -9,7 +9,7 @@ Each example is followed by the code (escaped with '\\'). Separate paragraphs wi
 
 this is on a new line ::
 
-this is also on a new line
-this is on a newline
+  this is also on a new line
+  this is on a newline
 
 this is the next paragraph.
