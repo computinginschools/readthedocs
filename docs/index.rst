@@ -14,3 +14,5 @@ This is the next paragraph.
 
 This line contains an ``inline literal`` like a keypress or code.
 
+This is a standalone hyperlink to http://the.computing.cafe/ which you can click on.
+
