@@ -7,5 +7,5 @@ Each example is followed by the code (escaped with '\\')
 
 **strong emphasis** - \**strong emphasis\**
 
-| block text
-| line breaks
+| Precede lines with '\ |' to enforce line breaks
+| like this
