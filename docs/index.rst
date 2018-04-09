@@ -1,2 +1,3 @@
 'readthedocs' samples
 =====================
+*emphasis* - \*emphasis\*
