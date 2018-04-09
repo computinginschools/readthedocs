@@ -1,11 +1,9 @@
 'readthedocs' samples
 =====================
 
-Each example is followed by the code (escaped with '\\')
+Each example is followed by the code (escaped with '\\'). Separate paragraphs with a blank line. 
 
 *emphasis* - \*emphasis\*
 
-**strong emphasis** - \**strong emphasis\**
-
-| Precede lines with '\ |' to enforce line breaks
-| like this
+**strong emphasis** - \**strong emphasis\**::
+this is on a new line
