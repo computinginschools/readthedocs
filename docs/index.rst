@@ -1,15 +1,13 @@
 'readthedocs' samples
 =====================
 
-Each example is followed by the code (escaped with '\\'). Separate paragraphs with a blank line. 
+*emphasis*
+**strong emphasis**
 
-*emphasis* - \*emphasis\*
+The next two lines are in a literal block ::
 
-**strong emphasis** - \**strong emphasis\**
-
-this is on a new line ::
-
-  this is also on a new line
-  this is on a newline
+  This is the first line in a literal block
+  This is the second line    maintaining whitespace
 
 this is the next paragraph.
+
