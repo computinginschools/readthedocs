@@ -2,6 +2,7 @@
 =====================
 
 *emphasis*
+
 **strong emphasis**
 
 The next two lines are in a literal block ::
