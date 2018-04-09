@@ -18,5 +18,5 @@ This is a standalone hyperlink to http://the.computing.cafe/ which you can click
 
 This is an inline image of a bouncy face |bouncy| which is loaded dynamically.
 
-.. |bouncy| image:: bouncy.png
+.. |bouncy| image:: images/bouncy.png
 
