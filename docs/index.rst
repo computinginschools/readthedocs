@@ -7,5 +7,4 @@ Each example is followed by the code (escaped with '\\')
 
 **strong emphasis** - \**strong emphasis\**
 
-::
-block text
+::block text
