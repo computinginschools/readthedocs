@@ -22,6 +22,8 @@ This is an inline image of a bouncy face |bouncy| which is loaded dynamically.
 
 The word 'name' is replaced with |name| as a substitional reference.
 
+.. danger:: Don't forget to press enter!
+
 .. image:: https://imgs.xkcd.com/comics/third_way.png
    :scale: 20 %
    :alt: alternate text
