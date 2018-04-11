@@ -26,6 +26,7 @@ The word 'name' is replaced with |name| as a substitional reference.
 
 .. image:: https://imgs.xkcd.com/comics/third_way.png
    :height: 100px
+   :width: 100px
    :alt: alternate text
    :align: right
    :target: https://xkcd.com/1285/
