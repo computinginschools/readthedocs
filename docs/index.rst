@@ -22,4 +22,4 @@ This is an inline image of a bouncy face |bouncy| which is loaded dynamically.
 
 The word 'name' is replaced with |name| as a substitional reference.
 
-.. |name| text:: Mark
+.. |name| note:: Mark
