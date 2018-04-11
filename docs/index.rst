@@ -22,10 +22,8 @@ This is an inline image of a bouncy face |bouncy| which is loaded dynamically.
 
 The word 'name' is replaced with |name| as a substitional reference.
 
-.. |name| DANGER:: Mark
-
 .. image:: https://imgs.xkcd.com/comics/third_way.png
    :scale: 20 %
    :alt: alternate text
-   :align: center
+   :align: right
    :target: https://xkcd.com/1285/
